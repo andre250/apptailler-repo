@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="AppTailler.SelecionarMotivos"
+       >
+  <ContentPage.Content>
+    <AbsoluteLayout AbsoluteLayout.LayoutBounds="0.90,0.30" AbsoluteLayout.LayoutFlags="PositionProportional">
+      <BoxView BackgroundColor="#CDD1D7" HeightRequest="500" WidthRequest="500" AbsoluteLayout.LayoutBounds="0.5,0.5" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+      <StackLayout AbsoluteLayout.LayoutBounds="0.5,0.5" HeightRequest="400" WidthRequest="400" AbsoluteLayout.LayoutFlags="PositionProportional" Padding="60,60,60,60">
+        <Label Text="MOTIVO" Font="Bold,28" TextColor="#384D79" HorizontalOptions="Center" VerticalOptions="Fill"></Label>
+        <Button x:Name="selecionar" Clicked="botOnClick" Text="Clique para selecionar o motivo" HorizontalOptions="CenterAndExpand" VerticalOptions="FillAndExpand"/>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Fill" Orientation="Horizontal">
+          <Entry x:Name="escreverMotivo" Placeholder="Ou, adicione o motivo aqui" HorizontalOptions="Center" VerticalOptions="Fill"/>
+          
+        </StackLayout>
+        <ListView x:Name="listMotivos" HorizontalOptions="Center" VerticalOptions="Fill"></ListView>
+        <StackLayout x:Name ="listaFotos" Orientation="Horizontal" Padding="20,0,20,0">
+          <AbsoluteLayout HorizontalOptions="Fill" VerticalOptions="Fill" >
+            <Button Clicked="botFotoClicked" BackgroundColor="White"  HeightRequest="70" WidthRequest="70"/>
+            <Image x:Name ="img_foto" Source="foto.png" HeightRequest="70" WidthRequest="70"></Image>
+          </AbsoluteLayout>
+        </StackLayout>
+        <Button Clicked="SalvarClicked" Text="SALVAR" TextColor="#ffffff" FontSize="Large" BackgroundColor="#384D79" HorizontalOptions="Center" HeightRequest="50" WidthRequest="120"/>
+      </StackLayout>
+      <AbsoluteLayout AbsoluteLayout.LayoutBounds="0.95,0.2" AbsoluteLayout.LayoutFlags="PositionProportional">
+        <Button Clicked="closeClicked" BackgroundColor="Transparent"  HeightRequest="50" WidthRequest="50"/>
+        <Image HeightRequest="50" WidthRequest="50" Source="close.png"></Image>
+      </AbsoluteLayout>
+    </AbsoluteLayout>
+  </ContentPage.Content>
+</ContentPage>

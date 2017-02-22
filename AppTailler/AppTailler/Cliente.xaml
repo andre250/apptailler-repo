@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTailler.Cliente"
+             BackgroundColor="White">
+  <StackLayout x:Name="lay_final" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Spacing="0">
+    <Grid BackgroundColor="#CDD1D7" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" Padding="10,10,10,10">
+      <Grid.RowDefinitions>
+        <RowDefinition Height="50" />
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="*" />
+      </Grid.ColumnDefinitions>
+      <Image x:Name="menuLogout" Source="logout_top.png" HorizontalOptions="Start" Grid.Row="0" Grid.Column="0"></Image>
+      <Image x:Name="centerLogo" Source="logotailler.png" HorizontalOptions="Center" Grid.Row="0" Grid.Column="1"></Image>
+      <Image x:Name="botAtualizar" VerticalOptions="Center" HorizontalOptions="End" Source="atualizar_white.png" WidthRequest="25" HeightRequest="25"  Grid.Row="0" Grid.Column="2"/>
+    </Grid>
+    <AbsoluteLayout   VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+      <StackLayout x:Name="lay_final2" Orientation="Vertical" Spacing="0" VerticalOptions="Fill" AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1">
+        <SearchBar x:Name="search" Text="Buscar clientes" VerticalOptions="Fill" HorizontalOptions="FillAndExpand" BackgroundColor="White"/>
+        <ScrollView Orientation="Vertical" x:Name="scrollView" VerticalOptions="Fill">
+          <Grid x:Name="gridView" Padding="10,10,10,10" VerticalOptions="Fill">
+            <Grid.RowDefinitions>
+              <RowDefinition Height="Auto" />
+              <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+          </Grid>
+        </ScrollView>
+      </StackLayout>
+      <ContentView x:Name="actIndBackground"
+ BackgroundColor="#222222" Opacity="0.7"
+ AbsoluteLayout.LayoutFlags="All"
+ AbsoluteLayout.LayoutBounds="0,0,1,1"
+ IsVisible="{Binding IsLoading}">
+      </ContentView>
+      <ActivityIndicator x:Name="actInd"
+       AbsoluteLayout.LayoutFlags="PositionProportional"
+       AbsoluteLayout.LayoutBounds="0.5,0.5,-1,-1"
+       Color="Red"
+       IsRunning="{Binding IsLoading}"
+       IsVisible="{Binding IsLoading}"
+       />
+    </AbsoluteLayout>
+  </StackLayout>
+</ContentPage>
+

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="AppTailler.MenuAuditoria2"
+       >
+  <AbsoluteLayout>
+    <StackLayout Spacing="20" Padding="40" BackgroundColor="#CDD1D7" AbsoluteLayout.LayoutBounds="0.5,0.5" AbsoluteLayout.LayoutFlags="PositionProportional" HorizontalOptions="Center" VerticalOptions="Center">
+      <Button x:Name="botAuditoria" Text="REALIZAR AUDITORIA" TextColor="#ffffff" FontSize="Large" Clicked="realizarauditoriaClicked" HorizontalOptions="Center" BackgroundColor="#384D79" WidthRequest="300"/>
+      <Button x:Name="botCancelar" Text="CANCELAR AUDITORIA" TextColor="#ffffff" FontSize="Large" Clicked="cancelarClicked" BackgroundColor="#C33C40" WidthRequest="300"/>
+      <Button x:Name="botCadastro" Text="COMUNICAÇÃO INTERNA" TextColor="#ffffff" FontSize="Large" Clicked="alterarCadastroClicked" BackgroundColor="#EAC13B" WidthRequest="300"/>
+    </StackLayout>
+    <AbsoluteLayout AbsoluteLayout.LayoutBounds="0.90,0.3" AbsoluteLayout.LayoutFlags="PositionProportional">
+      <Button Clicked="closeClicked" BackgroundColor="Transparent"  HeightRequest="50" WidthRequest="50"/>
+      <Image Source="close.png"></Image>
+    </AbsoluteLayout>
+    <ContentView x:Name="actIndBackground"
+  BackgroundColor="#222222" Opacity="0.7"
+  AbsoluteLayout.LayoutFlags="All"
+  AbsoluteLayout.LayoutBounds="0,0,1,1"
+  IsVisible="{Binding IsLoading}">
+    </ContentView>
+    <ActivityIndicator x:Name="actInd"
+     AbsoluteLayout.LayoutFlags="PositionProportional"
+     AbsoluteLayout.LayoutBounds="0.5,0.5,-1,-1"
+     Color="Red"
+     IsRunning="{Binding IsLoading}"
+     IsVisible="{Binding IsLoading}" />
+  </AbsoluteLayout>
+</ContentPage>

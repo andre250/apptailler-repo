@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#F0F0F1"
+             x:Class="AppTailler.Relatorio">
+  <StackLayout x:Name="lay_final" Spacing="0" HorizontalOptions="FillAndExpand" Orientation="Vertical">
+    <Grid BackgroundColor="#CDD1D7" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" Padding="10,10,10,10">
+      <Grid.RowDefinitions>
+        <RowDefinition Height="50" />
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="*" />
+      </Grid.ColumnDefinitions>
+      <Image x:Name="menuLogo" Source="settings.png" HorizontalOptions="Start" Grid.Row="0" Grid.Column="0"></Image>
+      <Image x:Name="centerLogo" Source="logotailler.png" HorizontalOptions="Center" Grid.Row="0" Grid.Column="1"></Image>
+    </Grid>
+    <StackLayout x:Name="lay1" Spacing="0" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" BackgroundColor="#384D79">
+      <Label x:Name="titlePage" Text="Ordem de Serviço" TextColor="White" FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+    </StackLayout>
+    <StackLayout x:Name="lay2" Spacing="0" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" BackgroundColor="White">
+      <Label x:Name="infosResp" Text="" TextColor="#5B5B5E" FontSize="Small" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+    </StackLayout>
+    <ScrollView Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="Fill">
+      <StackLayout x:Name="gridlay_final" MinimumHeightRequest="300" Orientation="Vertical" HorizontalOptions="FillAndExpand" Spacing="0" >
+        <Grid x:Name="gridView" HorizontalOptions="FillAndExpand" VerticalOptions="Fill">
+          <Grid.RowDefinitions>
+            <RowDefinition Height="10" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="10" />
+          </Grid.RowDefinitions>
+        </Grid>
+      </StackLayout>
+    </ScrollView>
+    <StackLayout x:Name="lay3" Spacing="20" Orientation="Horizontal" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" BackgroundColor="#F0F0F1">
+      <Image x:Name="good_image" WidthRequest="50" HeightRequest="50" HorizontalOptions="CenterAndExpand" Source="muitosatisfeito.png" BackgroundColor="#F0F0F1" />
+      <Image x:Name="regular_image" WidthRequest="50" HeightRequest="50" HorizontalOptions="CenterAndExpand" Source="satisfeito.png" BackgroundColor="#F0F0F1"/>
+      <Image x:Name="bad_image" WidthRequest="50" HeightRequest="50" HorizontalOptions="CenterAndExpand" Source="poucosatisfeito.png" BackgroundColor="#F0F0F1"/>
+    </StackLayout>
+    <ScrollView Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="Fill">
+      <StackLayout x:Name="lay4" BackgroundColor="#F0F0F1" Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" >
+        <Label x:Name="titleLabel2" Text="Aceitamos os serviços descritos nesta Ordem de Serviço" FontSize="Large" TextColor="#384D79" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+        <StackLayout x:Name="lay4_" Padding="38, 0, 38, 40" Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="Fill">
+          <StackLayout x:Name="lay4_1" Orientation="Vertical" HorizontalOptions="Start" VerticalOptions="Fill" WidthRequest="100">
+            <Label x:Name="inputLabel_nome" Text="NOME" FontSize="Small" TextColor="#384D79" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HeightRequest="35"/>
+            <Label x:Name="inputLabel_cargo" Text="CARGO" FontSize="Small" TextColor="#384D79" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HeightRequest="35"/>
+            <Label x:Name="inputLabel_telefone" Text="TELEFONE" FontSize="Small" TextColor="#384D79" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HeightRequest="35"/>
+            <Label x:Name="inputLabel_email" Text="EMAIL" FontSize="Small" TextColor="#384D79" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HeightRequest="35"/>
+          </StackLayout>
+          <StackLayout x:Name="lay4_2" Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" WidthRequest="100">
+            <Entry x:Name="inputEntry_nome" BackgroundColor="White" HorizontalOptions="FillAndExpand" HeightRequest="35" WidthRequest="100"/>
+            <Entry x:Name="inputEntry_cargo" BackgroundColor="White" HorizontalOptions="FillAndExpand" HeightRequest="35" WidthRequest="100"/>
+            <Entry x:Name="inputEntry_telefone" BackgroundColor="White" HorizontalOptions="FillAndExpand" HeightRequest="35" WidthRequest="100"/>
+            <Entry x:Name="inputEntry_email" BackgroundColor="White" HorizontalOptions="FillAndExpand" HeightRequest="35" WidthRequest="100"/>
+          </StackLayout>
+        </StackLayout>
+        <StackLayout x:Name="lay4_3" Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="Center" Padding="38, 0, 38, 40">
+          <Image x:Name="inputEntry_assinatura" BackgroundColor="White" HorizontalOptions="FillAndExpand" HeightRequest="150"></Image>
+        </StackLayout>
+        <StackLayout x:Name="lay4_4" Orientation="Horizontal" HorizontalOptions="CenterAndExpand" VerticalOptions="Fill" Spacing="30" Padding="38, 0, 38, 10">
+          <Button x:Name="button_assinatura" TextColor="White" BackgroundColor="#384D79" Text="ASSINAR" FontSize="Medium"/>
+          <Button x:Name="button_encerrar" Clicked="encerrarClicked" TextColor="White" BackgroundColor="#384D79" Text="ENCERRAR" FontSize="Medium"/>
+        </StackLayout>
+      </StackLayout>
+    </ScrollView>
+  </StackLayout>
+</ContentPage>

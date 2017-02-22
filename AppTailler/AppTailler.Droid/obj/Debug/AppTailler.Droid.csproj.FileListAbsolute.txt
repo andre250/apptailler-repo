@@ -1,0 +1,672 @@
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.Droid.dll.config
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.Droid.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.Droid.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\com.apptailler.tailler.apk
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\com.apptailler.tailler-Signed.apk
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\SignaturePad.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\SignaturePad.Forms.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\SignaturePad.Forms.Droid.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\SQLite.Net.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\AppTailler.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\AppTailler.Droid.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\AppTailler.Droid.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\bin\com.apptailler.tailler.apk
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\values\style.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\checknormal.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\checkselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\close.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\concluido.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\confirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\confirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\foto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\incompleto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\logotitle.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\muitosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\muitosatisfeito_selecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\nanull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\naon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\poucosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\poucosatisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\satisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\satisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\settings.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\unconfirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\unconfirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\logotailler.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\logout.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\areas.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\cadastro.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\cliente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\ordem.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\unidade.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\finalizado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\loading.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\hextransparente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\hex.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\areacompleta.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\areaincompleta.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\areas.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\cadastro.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\checknormal.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\checkselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\cliente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\close.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\concluido.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\confirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\confirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\edit.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\finalizada.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\foto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\hex.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\hextransparente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\incompleto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\logout.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\muitosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\muitosatisfeito_selecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\naon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\ordem.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\poucosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\poucosatisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\satisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\unconfirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\unconfirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\unidade.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\areacompleta.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\areaincompleta.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\areas.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\cadastro.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\checknormal.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\checkselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\cliente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\close.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\concluido.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\confirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\confirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\edit.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\finalizada.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\foto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\hex.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\hextransparente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\incompleto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\logout.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\muitosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\muitosatisfeito_selecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\naon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\ordem.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\poucosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\poucosatisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\satisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\unconfirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\unconfirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\unidade.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\areacompleta.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\areaincompleta.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\areas.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\cadastro.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\checknormal.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\checkselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\cliente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\close.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\concluido.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\confirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\confirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\edit.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\finalizada.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\foto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\hex.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\hextransparente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\incompleto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\logout.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\muitosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\muitosatisfeito_selecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\naon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\ordem.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\poucosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\poucosatisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\satisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\unconfirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\unconfirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\unidade.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\logotailler.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\areacompleta.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\areaincompleta.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\areas.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\cadastro.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\checknormal.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\checkselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\cliente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\close.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\confirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\confirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\edit.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\finalizada.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\foto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\hex.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\hextransparente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\icon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\incompleto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\logout.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\muitosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\muitosatisfeito_selecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\nanull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\naon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\ordem.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\poucosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\poucosatisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\satisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\unconfirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\unconfirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\unidade.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\areacompleta.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\areaincompleta.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\areas.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\cadastro.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\checknormal.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\checkselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\cliente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\close.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\confirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\confirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\edit.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\finalizada.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\foto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\hex.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\hextransparente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\incompleto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\logout.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\muitosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\muitosatisfeito_selecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\nanull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\naon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\ordem.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\poucosatisfeito.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\poucosatisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\satisfeitoselecionado.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\unconfirmnull.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\unconfirmon.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\unidade.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\concluido.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\edit.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\hex.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\hextransparente.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\incompleto.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\logotailler.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\settings.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\logotailler.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\logotailler.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\logotailler.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\atualizar.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\atualizar.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\atualizar.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\atualizar.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\atualizar.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\atualizar.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\atualizar.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\R.cs.flag
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\uploadflags.txt
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.Droid.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Data.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.EnterpriseServices.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.IdentityModel.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Net.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.ServiceModel.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Transactions.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Web.Services.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\AppTailler.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\AppTailler.Droid.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.EnterpriseServices.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.IdentityModel.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Net.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.ServiceModel.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Web.Services.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\logout_top.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\logout_top.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\logout_top.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\logout_top.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\logout_top.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\logout_top.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\logout_top.png
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\AppTailler.Droid.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\AppTailler.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.Droid.dll.config
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.Droid.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.Droid.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\com.tailler.tailler.apk
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\com.tailler.tailler-Signed.apk
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\SignaturePad.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\SignaturePad.Forms.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\SignaturePad.Forms.Droid.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\SQLite.Net.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\AppTailler.Droid.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\AppTailler.Droid.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\bin\com.tailler.tailler.apk
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\values\style.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\checknormal.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\checkselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\close.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\concluido.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\confirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\confirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\foto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\incompleto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\logotitle.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\muitosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\muitosatisfeito_selecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\nanull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\naon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\poucosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\poucosatisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\satisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\satisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\settings.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\unconfirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\unconfirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\logotailler.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\logout.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\areas.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\cadastro.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\cliente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\ordem.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\unidade.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\finalizado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\loading.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\hextransparente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\hex.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\areacompleta.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\areaincompleta.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\areas.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\cadastro.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\checknormal.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\checkselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\cliente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\close.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\concluido.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\confirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\confirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\edit.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\finalizada.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\foto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\hex.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\hextransparente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\incompleto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\logout.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\muitosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\muitosatisfeito_selecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\naon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\ordem.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\poucosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\poucosatisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\satisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\unconfirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\unconfirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\unidade.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\areacompleta.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\areaincompleta.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\areas.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\cadastro.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\checknormal.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\checkselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\cliente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\close.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\concluido.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\confirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\confirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\edit.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\finalizada.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\foto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\hex.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\hextransparente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\incompleto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\logout.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\muitosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\muitosatisfeito_selecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\naon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\ordem.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\poucosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\poucosatisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\satisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\unconfirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\unconfirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\unidade.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\areacompleta.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\areaincompleta.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\areas.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\cadastro.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\checknormal.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\checkselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\cliente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\close.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\concluido.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\confirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\confirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\edit.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\finalizada.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\foto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\hex.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\hextransparente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\incompleto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\logout.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\muitosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\muitosatisfeito_selecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\naon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\ordem.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\poucosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\poucosatisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\satisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\unconfirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\unconfirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\unidade.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\logotailler.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\areacompleta.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\areaincompleta.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\areas.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\cadastro.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\checknormal.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\checkselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\cliente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\close.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\confirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\confirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\edit.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\finalizada.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\foto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\hex.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\hextransparente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\icon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\incompleto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\logout.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\muitosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\muitosatisfeito_selecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\nanull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\naon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\ordem.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\poucosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\poucosatisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\satisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\unconfirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\unconfirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\unidade.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\areacompleta.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\areaincompleta.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\areas.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\cadastro.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\checknormal.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\checkselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\cliente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\close.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\confirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\confirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\edit.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\finalizada.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\foto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\hex.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\hextransparente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\incompleto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\logout.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\muitosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\muitosatisfeito_selecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\nanull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\naon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\ordem.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\poucosatisfeito.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\poucosatisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\satisfeitoselecionado.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\unconfirmnull.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\unconfirmon.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\unidade.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\concluido.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\edit.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\hex.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\hextransparente.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\incompleto.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\logotailler.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\settings.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\logotailler.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\logotailler.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\logotailler.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\atualizar.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\atualizar.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\atualizar.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\atualizar.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\atualizar.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\atualizar.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\atualizar.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\logout_top.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-hdpi\logout_top.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-ldpi\logout_top.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-mdpi\logout_top.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xhdpi\logout_top.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxhdpi\logout_top.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable-xxxhdpi\logout_top.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\R.cs.flag
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\uploadflags.txt
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\res\drawable\atualizar_white.png
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.Droid.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Data.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.EnterpriseServices.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.IdentityModel.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Net.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.ServiceModel.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Transactions.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Web.Services.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\AppTailler.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\AppTailler.Droid.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.EnterpriseServices.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.IdentityModel.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Net.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.ServiceModel.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Web.Services.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\obj\Debug\AppTailler.Droid.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler.Droid\bin\Debug\AppTailler.Droid.dll.mdb

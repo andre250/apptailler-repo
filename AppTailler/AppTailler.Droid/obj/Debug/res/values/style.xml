@@ -1,0 +1,1 @@
+<resources><style name="CustomTheme" parent="android:Theme.Holo.Light"><item name="android:textColor">#A9ABAE</item><!--<item name="android:windowBackground">@drawable/LOADING</item>--></style></resources>

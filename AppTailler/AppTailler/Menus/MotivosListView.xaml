@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTailler.Menus.MotivosListView">
+  <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" BackgroundColor="White">
+    <StackLayout HorizontalOptions="Center" VerticalOptions="FillAndExpand" AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1">
+      <ListView x:Name="selecionar">
+        <ListView.Header>
+          <StackLayout Padding="10,20,10,20" BackgroundColor="#384D79">
+            <Label Text="Escolha um dos motivos abaixo" XAlign ="Center" TextColor="#ffffff" FontSize="Large" />
+          </StackLayout>
+        </ListView.Header>
+      </ListView>
+    </StackLayout>
+  </AbsoluteLayout>
+</ContentPage>

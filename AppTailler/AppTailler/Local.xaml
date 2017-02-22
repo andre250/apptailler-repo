@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTailler.Local"
+             BackgroundColor="White">
+  <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+    <Grid BackgroundColor="#CDD1D7" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" Padding="10,10,10,10">
+      <Grid.RowDefinitions>
+        <RowDefinition Height="50" />
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="*" />
+      </Grid.ColumnDefinitions>
+      <Image x:Name="menuLogo" Source="settings.png" HorizontalOptions="Start" Grid.Row="0" Grid.Column="0"></Image>
+      <Image x:Name="centerLogo" Source="logotailler.png" HorizontalOptions="Center" Grid.Row="0" Grid.Column="1"></Image>
+      <Label FontSize="9" x:Name="versionLabel" HorizontalOptions="Center" VerticalTextAlignment="Center" TextColor="White" Grid.Row="0" Grid.Column="2"/>
+    </Grid>
+    <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+      <StackLayout Orientation="Vertical" VerticalOptions="Fill" HorizontalOptions="Fill" Spacing="0" AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1">
+        <SearchBar x:Name="search" Text="Buscar locais" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="White"/>
+        <ScrollView x:Name="scrollView" VerticalOptions="Fill">
+          <Grid x:Name="gridView" Padding="10,10,10,10">
+          </Grid>
+        </ScrollView>
+        <StackLayout x:Name="footer" VerticalOptions="EndAndExpand" Spacing="0">
+          <StackLayout x:Name="footer_up" BackgroundColor="White" Padding="20,20,0,20" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" Spacing="0">
+            <Label x:Name="footer_up_label" Text="Administrador: Não cadastrado" FontSize="Medium" HorizontalOptions="CenterAndExpand"/>
+          </StackLayout>
+          <StackLayout x:Name="footer_down" BackgroundColor="#384D79" Padding="20,20,20,20" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" Spacing="0" Orientation="Horizontal">
+            <Label x:Name="footer_down_label" Text="Administrador: Não cadastrado" FontSize="Medium" HorizontalOptions="FillAndExpand" TextColor="White"/>
+            <Image x:Name="botAtualizar" VerticalOptions="Center" HorizontalOptions="End" Source="atualizar.png" WidthRequest="25" HeightRequest="25"/>
+          </StackLayout>
+        </StackLayout>
+      </StackLayout>
+      <StackLayout x:Name="ActivityIndicatorLayout"
+          IsVisible="false"
+          AbsoluteLayout.LayoutFlags="All"
+          AbsoluteLayout.LayoutBounds="0,0,1,1"
+          InputTransparent="true"
+          BackgroundColor="Black"
+          Opacity="0.7"
+          VerticalOptions="FillAndExpand"
+          HorizontalOptions="FillAndExpand">
+        <ActivityIndicator Color="White" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" x:Name="activ" />
+      </StackLayout>
+    </AbsoluteLayout>
+  </StackLayout>
+</ContentPage>

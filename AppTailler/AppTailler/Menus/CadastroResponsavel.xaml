@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="AppTailler.CadastroResponsavel"
+       >
+  <ContentPage.Content>
+    <ScrollView>
+    <AbsoluteLayout>
+        <StackLayout Padding="30,30,30,30" Orientation="Vertical" Spacing="20" HorizontalOptions="Center" VerticalOptions="Center" BackgroundColor="#CDD1D7" AbsoluteLayout.LayoutBounds="0.5,0.5" AbsoluteLayout.LayoutFlags="PositionProportional">
+          <Label Text="CADASTRO DO RESPONSÁVEL" Font="Bold,Large" TextColor="#384D79" HorizontalTextAlignment="Center"/>
+          <StackLayout HorizontalOptions="FillAndExpand" Spacing="10" VerticalOptions="Fill" Orientation="Vertical">
+            <Label HorizontalTextAlignment="Center" VerticalOptions="Center" WidthRequest="70" HorizontalOptions="CenterAndExpand" Text="NOME" TextColor="#384D79" Font="Medium"/>
+            <Entry Keyboard="Text" VerticalOptions="Center" WidthRequest="350" HeightRequest="50" HorizontalOptions="CenterAndExpand" x:Name="entryNome" BackgroundColor="#ffffff" MinimumWidthRequest="150"/>
+          </StackLayout>
+          <StackLayout HorizontalOptions="FillAndExpand" Spacing="10" VerticalOptions="Fill" Orientation="Vertical">
+            <Label HorizontalTextAlignment="Center" WidthRequest="70" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Text="EMAIL" TextColor="#384D79" Font="Medium"/>
+            <Entry Keyboard="Email" VerticalOptions="Center" WidthRequest="350" HeightRequest="50" HorizontalOptions="CenterAndExpand" x:Name="entryEmail" BackgroundColor="#ffffff" MinimumWidthRequest="150"/>
+          </StackLayout>
+          <StackLayout HorizontalOptions="FillAndExpand" Spacing="10" VerticalOptions="Fill" Orientation="Vertical">
+            <Label HorizontalTextAlignment="Center" WidthRequest="70" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Text="CARGO" TextColor="#384D79" Font="Medium"/>
+            <Entry Keyboard="Text" VerticalOptions="Center" WidthRequest="350" HeightRequest="50" HorizontalOptions="CenterAndExpand" x:Name="entryCargo" BackgroundColor="#ffffff" MinimumWidthRequest="150"/>
+          </StackLayout>
+          <StackLayout HorizontalOptions="FillAndExpand" Spacing="10" VerticalOptions="Fill" Orientation="Vertical">
+            <Label HorizontalTextAlignment="Center" WidthRequest="70" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Text="TELEFONE" TextColor="#384D79" Font="Medium"/>
+            <Entry Keyboard="Telephone" VerticalOptions="Center" WidthRequest="350" HeightRequest="50" HorizontalOptions="CenterAndExpand" x:Name="entryTelefone" BackgroundColor="#ffffff" MinimumWidthRequest="150"/>
+          </StackLayout>
+          <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="Fill" AbsoluteLayout.LayoutBounds="0.50,0.67" Spacing="30" AbsoluteLayout.LayoutFlags="PositionProportional">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" >
+              <Image x:Name="inputEntry_assinatura" BackgroundColor="White" HorizontalOptions="FillAndExpand" HeightRequest="150" WidthRequest="350"></Image>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Fill">
+              <Button Clicked="okClicked" Text="SALVAR" TextColor="#ffffff" FontSize="Large" BackgroundColor="#384D79"  HeightRequest="40" WidthRequest="150"/>
+              <Button x:Name="button_assinatura" Text="ASSINAR" TextColor="#ffffff" FontSize="Large" BackgroundColor="#384D79"  HeightRequest="40" WidthRequest="150"/>
+            </StackLayout>
+          </StackLayout>
+        </StackLayout>
+        <AbsoluteLayout AbsoluteLayout.LayoutBounds="1,0.05" AbsoluteLayout.LayoutFlags="PositionProportional">
+          <Button Clicked="closeClicked" BackgroundColor="Transparent"  HeightRequest="50" WidthRequest="50"/>
+          <Image Source="close.png"></Image>
+        </AbsoluteLayout>
+    </AbsoluteLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,142 @@
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.dll.config
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Mono.Android.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\SignaturePad.Forms.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\SQLite.Net.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.iOS.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.Core.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.Xml.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Mono.Dynamic.Interpreter.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Mono.Android.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.iOS.xml
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.csproj.App.config
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.AuditoriaFinalizada.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.CadastroResponsavel.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.CancelamentoAuditoria.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.MenuAuditoria.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.MenuAuditoria2.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.SelecionarMotivos.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Views.MainView.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Views.SignaturePadConfigView.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Auditoria.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Cliente.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Local.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Login.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Relatorio.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.Loading.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.MotivosListView.xaml.g.cs
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.dll
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.pdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.csprojResolveAssemblyReference.cache
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.dll.mdb
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.dll.config
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Mono.Android.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\SignaturePad.Forms.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\SQLite.Net.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.iOS.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.Core.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.Xml.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Mono.Dynamic.Interpreter.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Mono.Android.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\Xamarin.iOS.xml
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.csproj.App.config
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.AuditoriaFinalizada.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.CadastroResponsavel.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.CancelamentoAuditoria.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.MenuAuditoria.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.MenuAuditoria2.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.SelecionarMotivos.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Views.MainView.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Views.SignaturePadConfigView.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Auditoria.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Cliente.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Local.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Login.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Relatorio.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.Loading.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.Menus.MotivosListView.xaml.g.cs
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.dll
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.pdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.csprojResolveAssemblyReference.cache
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\obj\Debug\AppTailler.dll.mdb
+C:\Users\Petridis\AppTailler\AppTailler\AppTailler\bin\Debug\AppTailler.dll.mdb

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="AppTailler.MenuAuditoria"
+       >
+  <ContentPage.Content>
+    <AbsoluteLayout AbsoluteLayout.LayoutBounds="0.90,0.30" AbsoluteLayout.LayoutFlags="PositionProportional">
+      <BoxView BackgroundColor="#CDD1D7" HeightRequest="400" WidthRequest="500" AbsoluteLayout.LayoutBounds="0.5,0.5" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+      <AbsoluteLayout AbsoluteLayout.LayoutBounds="0.95,0.30" AbsoluteLayout.LayoutFlags="PositionProportional">
+        <Button Clicked="closeClicked" BackgroundColor="Transparent"  HeightRequest="50" WidthRequest="50"/>
+        <Image Source="close.png"></Image>
+      </AbsoluteLayout>
+      <Button Text="AUDITORIA" TextColor="#ffffff" FontSize="Large" Clicked="auditoriaClicked" HorizontalOptions="Center" BackgroundColor="#384D79" AbsoluteLayout.LayoutBounds="0.50,0.40" AbsoluteLayout.LayoutFlags="PositionProportional" HeightRequest="60" WidthRequest="300"/>
+      <Button Text="MONITORAMENTO" TextColor="#ffffff" FontSize="Large" Clicked="monitoramentoClicked" BackgroundColor="#C33C40" AbsoluteLayout.LayoutBounds="0.50,0.50" AbsoluteLayout.LayoutFlags="PositionProportional" HeightRequest="60" WidthRequest="300"/>
+      <Button Text="FRANQUIA" TextColor="#ffffff" FontSize="Large" Clicked="franquiaClicked" BackgroundColor="#EAC13B" AbsoluteLayout.LayoutBounds="0.50,0.60" AbsoluteLayout.LayoutFlags="PositionProportional" HeightRequest="60" WidthRequest="300"/>
+    </AbsoluteLayout>
+  </ContentPage.Content>
+</ContentPage>

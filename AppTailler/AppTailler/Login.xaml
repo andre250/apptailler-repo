@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTailler.Login"
+             BackgroundColor="#CED2D8">
+
+  <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+    <StackLayout AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+      <StackLayout Padding="20,0,20,0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Spacing="20" >
+        <Image x:Name="imgLogo" HorizontalOptions="CenterAndExpand" WidthRequest="600" Source="logotailler.png"></Image>
+        <Entry x:Name="userInput" VerticalOptions="Center" FontSize="Medium" HorizontalTextAlignment="Center" HorizontalOptions="Center" BackgroundColor="#384D79" Placeholder="USUÁRIO" PlaceholderColor="#FFFFFF" WidthRequest="250" HeightRequest="50" TextColor="#FFFFFF"></Entry>
+        <Entry x:Name="passInput" IsPassword="true" VerticalOptions="Center" FontSize="Medium" HorizontalTextAlignment="Center" HorizontalOptions="Center" BackgroundColor="#384D79" Placeholder="SENHA" PlaceholderColor="#FFFFFF" WidthRequest="250" HeightRequest="50" TextColor="#FFFFFF"></Entry>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Orientation="Horizontal">
+          <Image x:Name="persistConnection" Source="checknormal.png"></Image>
+          <Label Text="Permanecer conectado." FontSize="Medium" TextColor="#5B5B5F" VerticalOptions="Center" HorizontalTextAlignment="Center" HorizontalOptions="Center"></Label>
+        </StackLayout>
+        <Label Text="Esqueceu sua senha?" FontSize="Medium" TextColor="#5B5B5F" VerticalOptions="Center" HorizontalTextAlignment="Center" HorizontalOptions="Center"></Label>
+        <Button x:Name="subBot" FontSize="24" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="150" Text="ENTRAR" HeightRequest="50" BackgroundColor="#C33C40" TextColor="#FFFFFF"></Button>
+      </StackLayout>
+    </StackLayout>
+    <ContentView x:Name="actIndBackground"
+ BackgroundColor="#222222" Opacity="0.7"
+ AbsoluteLayout.LayoutFlags="All"
+ AbsoluteLayout.LayoutBounds="0,0,1,1"
+ IsVisible="{Binding IsLoading}">
+    </ContentView>
+    <ActivityIndicator x:Name="actInd"
+     AbsoluteLayout.LayoutFlags="PositionProportional"
+     AbsoluteLayout.LayoutBounds="0.5,0.5,-1,-1"
+     Color="Red"
+     IsRunning="{Binding IsLoading}"
+     IsVisible="{Binding IsLoading}" />
+  </AbsoluteLayout>
+</ContentPage>

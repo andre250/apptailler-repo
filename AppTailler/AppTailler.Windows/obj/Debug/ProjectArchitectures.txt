@@ -1,0 +1,2 @@
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler.Windows\AppTailler.Windows.csproj;neutral
+C:\Users\Projetos Xamarin\AppTailler\AppTailler\AppTailler\AppTailler.csproj;neutral

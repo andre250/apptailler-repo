@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTailler.Auditoria"
+             BackgroundColor="White">
+
+  <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+    <StackLayout x:Name="lay_final" VerticalOptions="Fill" HorizontalOptions="Fill" Orientation="Vertical" Spacing="0" AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1">
+      <Grid BackgroundColor="#CDD1D7" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" Padding="10,10,10,10">
+        <Grid.RowDefinitions>
+          <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition Width="*" />
+          <ColumnDefinition Width="*" />
+          <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Image x:Name="menuLogo" Source="settings.png" HorizontalOptions="Start" Grid.Row="0" Grid.Column="0"></Image>
+        <Image x:Name="centerLogo" Source="logotailler.png" HorizontalOptions="Center" Grid.Row="0" Grid.Column="1"></Image>
+      </Grid>
+      <StackLayout x:Name="lay" VerticalOptions="FillAndExpand" HorizontalOptions="Fill" Orientation="Vertical" Spacing="0">
+        <ScrollView x:Name="scrollView" Orientation="Horizontal" VerticalOptions="Fill">
+          <Grid  x:Name="gridView" ColumnSpacing="2" BackgroundColor="#CDD1D7" HorizontalOptions="Fill" VerticalOptions="Fill">
+          </Grid>
+        </ScrollView>
+        <StackLayout x:Name="lay_gridListas" Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="Fill" Spacing="0"/>
+      </StackLayout>
+      <StackLayout x:Name="footer" VerticalOptions="Fill" Spacing="0" Orientation="Vertical" >
+        <StackLayout BackgroundColor="White" Padding="20,0,0,20" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" Spacing="0">
+          <Label x:Name="footer_up_label" FontSize="Medium" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" />
+        </StackLayout>
+        <StackLayout BackgroundColor="#384D79" Padding="20,0,0,20" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" Spacing="0">
+          <Label x:Name="footer_down_label" FontSize="Medium" HorizontalOptions="FillAndExpand" VerticalOptions="Fill" TextColor="White" />
+        </StackLayout>
+      </StackLayout>
+    </StackLayout>
+    <ContentView x:Name="actIndBackground"
+ BackgroundColor="#222222" Opacity="0.7"
+ AbsoluteLayout.LayoutFlags="All"
+ AbsoluteLayout.LayoutBounds="0,0,1,1"
+ IsVisible="{Binding IsLoading}">
+    </ContentView>
+    <ActivityIndicator x:Name="actInd"
+     AbsoluteLayout.LayoutFlags="PositionProportional"
+     AbsoluteLayout.LayoutBounds="0.5,0.5,-1,-1"
+     Color="Red"
+     IsRunning="{Binding IsLoading}"
+     IsVisible="{Binding IsLoading}" />
+  </AbsoluteLayout>
+</ContentPage>

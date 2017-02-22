@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="AppTailler.CancelamentoAuditoria"
+       >
+  <ContentPage.Content>
+    <AbsoluteLayout AbsoluteLayout.LayoutBounds="0.90,0.30" AbsoluteLayout.LayoutFlags="PositionProportional">
+      <StackLayout BackgroundColor="#CDD1D7" Padding="30,30,30,30" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Fill" AbsoluteLayout.LayoutBounds="0.5,0.5" AbsoluteLayout.LayoutFlags="PositionProportional">
+        <Label Text="CANCELAR AUDITORIA" HorizontalTextAlignment="Center" Font="Bold,Large" TextColor="#384D79"></Label>
+        <Label Text="Descreva o motivo:" HorizontalTextAlignment="Center" Font="Small" TextColor="#333333"></Label>
+        <Entry x:Name="motivo" BackgroundColor="#ffffff" WidthRequest="300" HeightRequest="100"/>
+        <Button Text="ENVIAR" TextColor="#ffffff" FontSize="Large" Clicked="okClicked" BackgroundColor="#384D79" HeightRequest="50" HorizontalOptions="Center" VerticalOptions="Center"/>
+      </StackLayout>
+      <AbsoluteLayout AbsoluteLayout.LayoutBounds="0.95,0.30" AbsoluteLayout.LayoutFlags="PositionProportional">
+        <Button Clicked="closeClicked" BackgroundColor="Transparent"/>
+        <Image Source="close.png"></Image>
+      </AbsoluteLayout>
+    </AbsoluteLayout>
+  </ContentPage.Content>
+</ContentPage>
